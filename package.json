@@ -1,0 +1,32 @@
+{
+  "name": "slow-dfa-string-parser",
+  "version": "1.0.0",
+  "description": "A string parser using dfa state machine",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihugang/slow-dfa-string-parser.git"
+  },
+  "keywords": [
+    "string",
+    "parser",
+    "lex",
+    "lexing",
+    "lexical",
+    "analysis",
+    "dfa",
+    "state",
+    "machine",
+    "status",
+    "fsm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lihugang/slow-dfa-string-parser/issues"
+  },
+  "homepage": "https://github.com/lihugang/slow-dfa-string-parser#readme"
+}
